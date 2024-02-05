@@ -65,6 +65,7 @@ mutagen
 doodstream
 unshortenit
 mdisky
+dnspython==2.3.0
 
 
 
